@@ -97,7 +97,7 @@ src
 # Example
 
 <p align="center">
-  <a href="">
+  <a href="./imgs/terminal.png">
     <img src="./imgs/terminal.png">
   </a>
 </p>
