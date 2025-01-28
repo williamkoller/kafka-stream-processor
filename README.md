@@ -1,6 +1,6 @@
-# KafkaStreamLogger
+# Kafka Stream Processor
 
-KafkaStreamLogger is a simple yet powerful application for producing and consuming messages using Apache Kafka. It includes logging functionality to track the flow of data and handle errors effectively.
+Kafka Stream Processor is a simple yet powerful application for producing and consuming messages using Apache Kafka. It includes logging functionality to track the flow of data and handle errors effectively.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ KafkaStreamLogger is a simple yet powerful application for producing and consumi
 
 ## Introduction
 
-KafkaStreamLogger is designed to simplify the process of sending and receiving messages using Apache Kafka. It supports message compression, error handling, and detailed logging to ensure reliability and traceability of the data flow.
+Kafka Stream Processor is designed to simplify the process of sending and receiving messages using Apache Kafka. It supports message compression, error handling, and detailed logging to ensure reliability and traceability of the data flow.
 
 ## Features
 
