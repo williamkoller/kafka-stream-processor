@@ -29,8 +29,7 @@ KafkaStreamLogger is designed to simplify the process of sending and receiving m
 
 Before you begin, ensure you have the following installed:
 
-- Node.js (v14 or higher)
-- Apache Kafka
+- Node.js (v20 or higher)
 - Docker (for running Kafka and Zookeeper)
 
 ## Installation
@@ -94,4 +93,3 @@ src
 - infra/log: Contains the logging setup using a custom logger.
 - infra/streams/kafka: Contains the Kafka producer and consumer implementations.
 - main.ts: Entry point for the application, initializing the producer and consumer.
-
