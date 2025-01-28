@@ -93,3 +93,11 @@ src
 - infra/log: Contains the logging setup using a custom logger.
 - infra/streams/kafka: Contains the Kafka producer and consumer implementations.
 - main.ts: Entry point for the application, initializing the producer and consumer.
+
+# Example
+
+<p align="center">
+  <a href="">
+    <img src="./imgs/terminal.png">
+  </a>
+</p>
