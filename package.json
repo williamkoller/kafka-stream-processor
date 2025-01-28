@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "tsc": "tsc",
+    "start": "node --import=tsx --env-file=.env src/main.ts",
+    "test": "npm run tsc -- --noEmit && jest",
+    "test:cov": "jest --coverage",
+    "docker:up": "docker-compose down && docker-compose up"
+  },
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "kafkajs": "^2.2.4",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/kafkajs": "^1.9.0",
+    "@types/node": "^22.10.10",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
