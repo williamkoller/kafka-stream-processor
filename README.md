@@ -1,3 +1,5 @@
+[![CI/CD Pipeline](https://github.com/williamkoller/kafka-stream-processor/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/williamkoller/kafka-stream-processor/actions/workflows/ci-cd.yml)
+
 # Kafka Stream Processor
 
 Kafka Stream Processor is a simple yet powerful application for producing and consuming messages using Apache Kafka. It includes logging functionality to track the flow of data and handle errors effectively.
